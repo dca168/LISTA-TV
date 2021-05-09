@@ -1,0 +1,90 @@
+#EXTM3U x-tvg-url="" tv-test="MX.m3u"
+#EXTINF:-1 tvg-id="1" tvg-name="VIA TELEVISION" tvg-logo="https://tmcreativos.com/archivo/viatelevisionperu.png",VIA  TV  | PE
+https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="2" tvg-name="Antares TV" tvg-logo="https://www.m3u.cl/logo/694_Antares_TV.png", Antares TV  | PE
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="3" tvg-name="Canal IPE" tvg-logo="https://www.m3u.cl/logo/496_Canal_IPE.png", Canal IPE  | PE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="4" tvg-name="HispanTV" tvg-logo="https://www.m3u.cl/logo/806_HispanTV.png", HispanTV  | IR
+https://live1.presstv.com/live/hispan.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="5" tvg-name="TV Peru Noticias" tvg-logo="https://www.m3u.cl/logo/705_TV_Peru_Noticias.png", TV Peru Noticias  | PE
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="6" tvg-name="UCI Noticias 1" tvg-logo="https://www.m3u.cl/logo/684_UCI_Noticias_1.jpg", UCI Noticias 1  | PE
+http://168.205.133.38:80/uci1/index.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="7" tvg-name="Vision Noticias Peru" tvg-logo="https://www.m3u.cl/logo/687_Vision_Noticias_Peru.jpg", Vision Noticias Peru  | PE
+https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="8" tvg-name="Cine Club" tvg-logo="https://www.m3u.cl/logo/471_Cine_Club.png", Cine Club  | PE
+https://Stmv.panel.mivideo.pro/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="9" tvg-name="BHTV" tvg-logo="https://www.m3u.cl/logo/695_BHTV.png", BHTV  | PE
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="10" tvg-name="Cultura 24 TV" tvg-logo="https://www.m3u.cl/logo/696_Cultura_24_TV.png", Cultura 24 TV  | PE
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="11" tvg-name="Exitosa" tvg-logo="https://www.m3u.cl/logo/691_Exitosa.jpg", Exitosa  | PE
+https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="12" tvg-name="Vision TV" tvg-logo="https://www.m3u.cl/logo/688_Vision_TV.png", Vision TV  | PE
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="13" tvg-name="PANAMERICANA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Panamericana-tv.svg", PANAMERICANA TV | PE
+
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+
+#EXTINF:-1 tvg-id="14" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW | PE
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="15" tvg-name="TELESUR" tvg-logo="https://www.google.com.pe/url?sa=i&url=https%3A%2F%2Fwww.ecured.cu%2FTeleSUR&psig=AOvVaw3qisxwNKTq_swtcXxQxcIE&ust=1620671430158000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPia9dqdvfACFQAAAAAdAAAAABAD",TELESUR | PE
+
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="16" tvg-name="NUEVO TIEMPO" tvg-logo="http://aws-noticias-es.s3.amazonaws.com/2014/11/logotipont.jpg", NUEVO TIEMPO | PE
+
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="17" tvg-name="Red ADvenir" tvg-logo="http://redadvenir.org/pagina/wp-content/themes/redadvenir/images/logo.png", Red ADvenir | PE
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirl/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="18" tvg-name="RETRO PLUS TV" tvg-logo="", RETRO PLUS TV | PE
+
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="19" tvg-name="WILLAX" tvg-logo="https://willax.tv/wp-content/uploads/2020/07/Logo-Willax-Optimismo.png", WILLAX | PE
+
+https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmp2WfXtFrkHTgqbLN5PMiWk)/dm/3/x7x4dgx/s/live-1.m3u8
+
+
+#EXTINF:-1 tvg-id="20" tvg-name="HBTV" tvg-logo="https://pbs.twimg.com/profile_images/1142529167155707904/pMDKtgGX_400x400.png", HBTV | PE
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="21" tvg-name="LOCOMOTION" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png", LOCOMOTION | PE
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+
+#EXTINF:-1 tvg-id="22" tvg-name="3ABN" tvg-logo="https://3abnlatino.tv/img/Latino-Logo-2015.svg", 3ABN| PE
+
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/stream03/streamPlaylist.m3u8                                                                                                                                                                                                                                                                                                                                                                     
